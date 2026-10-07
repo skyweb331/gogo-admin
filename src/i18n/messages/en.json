@@ -1,0 +1,35 @@
+{
+  "current-language": "English",
+  "site-name": "GOGO Admin",
+  "site-description": "GOGO operations console.",
+
+  "menu-dashboard": "Dashboard",
+  "menu-customers": "Customers",
+  "menu-transactions": "Transactions",
+  "menu-failed-payouts": "Payouts",
+  "menu-fees": "Fees",
+  "menu-support": "Support",
+  "menu-logs": "Logs",
+  "menu-audit-logs": "Audit log",
+  "menu-webhooks": "Webhook events",
+  "menu-staff": "Staff",
+  "menu-settings": "Settings",
+  "menu-sandbox": "Sandbox",
+
+  "menu-cta-copy": "Failed payouts wait here until someone retries them.",
+  "menu-cta-button": "Open the queue",
+
+  "mode-light": "Light",
+  "mode-dark": "Dark",
+  "mode-system": "System",
+  "user-mode": "Mode",
+  "user-system": "System",
+  "user-light": "Light",
+  "user-dark": "Dark",
+  "user-theme": "Theme",
+  "user-blue": "Blue",
+  "user-green": "Green",
+  "user-orange": "Orange",
+  "user-purple": "Purple",
+  "user-sign-out": "Sign out"
+}
